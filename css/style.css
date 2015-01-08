@@ -1,0 +1,95 @@
+/*HEAD*/
+.navbar {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #FFF;
+	padding-left: 20px;
+	padding-right: 10px;
+	color: #FFF;
+}
+
+.navbar-text h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.navbar-text p {
+	font-size: 14px;
+	margin-top: -5px;
+}
+
+.navbar a:link:hover {
+	text-decoration: none;
+}
+
+.navbar-right a {
+	margin-top: 30px;
+	color: #FFF;
+}
+
+.navbar-toggle {
+	margin-top: 30px;
+	border: none;
+}
+
+.dropdown-menu li {
+	margin-top: -20px;
+}
+
+/*BODY*/
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	line-height: 1.75;
+}
+
+#me {
+	width: 250px;
+}
+
+h1 {
+	font-weight: 800;
+	font-size: 24px;
+}
+
+.intro {
+	margin-top: 100px;
+	width: 100%;
+	background-image: url("../images/trianglebackground.png");
+	padding-top: 20px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #E1E1E1;
+}
+
+.aboutme {
+	padding-top: 30px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #E1E1E1;
+}
+
+.aboutme .col-md-4 {
+	padding-top: 25px;
+	padding-bottom: 35px;
+}
+
+.recentwork {
+	padding-top: 30px;
+	border-bottom: 1px solid #E1E1E1;
+}
+
+.col-md-6 img {
+	width: 400px;
+}
+
+.btn {
+	font-weight: 600;
+	border-radius: 4px;
+}
+
+.recentwork .row {
+	margin: 30px 0 60px 0;
+}
+
+.footer {
+	height: 75px;
+	background-color: #E1E1E1;
+}
